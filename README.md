@@ -6,7 +6,7 @@
 ---
 ## 📥 Direct Download & Install
 Click the button below to instantly download the ShilpSetu app directly to your phone. No navigation needed!
-[![Download ShilpSetu APK](https://img.shields.io/badge/⬇️_Download_APK-Direct_Link-2EA043?style=for-the-badge&logo=android)](https://github.com/bhandkunal02-eng/ShilpSetu/releases/download/v1.0.2-prototype/YOUR_APK_NAME_HERE.apk)
+[![Download ShilpSetu APK](https://img.shields.io/badge/⬇️_Download_APK-Direct_Link-2EA043?style=for-the-badge&logo=android)](https://github.com/bhandkunal02-eng/ShilpSetu/releases/download/v1.0.2-prototype/ShilpSetu.apk)
 *Note: If the button doesn't work on mobile, tap and hold it, then select "Download link".*
 ### Installation Steps:
 1. Once the download is complete, open the file on your mobile device. 
